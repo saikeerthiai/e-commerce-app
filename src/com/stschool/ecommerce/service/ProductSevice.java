@@ -1,4 +1,4 @@
 package com.stschool.ecommerce.service;
 
-public class PaymentRepository {
+public class ProductSevice {
 }
