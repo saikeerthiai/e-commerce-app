@@ -13,7 +13,7 @@ public class CustomerMenu {
         String firstName = scanner.next();
         System.out.println("Enter LastName");
         String lastName  = scanner.next();
-        System.out.println("Emter Email");
+        System.out.println("Enter Email");
         String email = scanner.next();
         System.out.println("Enter ContactNo");
         String contactNo  = scanner.next();
